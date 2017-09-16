@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="viralandroid.com.materialdesignslidingtabs">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="E-Ba"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".subic7408">
+        </activity>
+        <activity android:name=".subic555">
+        </activity>
+        <activity android:name=".subic7404">
+        </activity>
+        <activity android:name=".subicl293d">
+        </activity>
+        <activity android:name=".subic74614">
+        </activity>
+        <activity android:name=".subtransistor2n222">
+        </activity>
+        <activity android:name=".subtransistortip102">
+        </activity>
+        <activity android:name=".subtransistortip107">
+        </activity>
+        <activity android:name=".subtransistor2n304">
+        </activity>
+        <activity android:name=".subtransistorbc547">
+        </activity>
+        <activity android:name=".warna">
+        </activity>
+        <activity android:name=".kalkulator">
+        </activity>
+        <activity android:name=".submenuand">
+        </activity>
+        <activity android:name=".submenunot">
+        </activity>
+        <activity android:name=".submenuor">
+        </activity>
+
+    </application>
+
+</manifest>
